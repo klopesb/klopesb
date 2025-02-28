@@ -10,7 +10,9 @@ Exploring biological networks, algorithms, and omics data analysis
 
 ## 🛠️ Skills
 Programming: Python | R | SQL | NoSQL | HTML/CSS
+
 Tech Stack: Docker | Office 365 | Zendesk | Recurly
+
 Languages: Portuguese (Native) | English (C2)
 
 <!--
